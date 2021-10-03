@@ -1,0 +1,28 @@
+C:\Users\dsb\source\repos\AvaliacaoFinal_LPOO\AvaliacaoFinal_LPOO\bin\Debug\netcoreapp3.1\AvaliacaoFinal_LPOO.exe
+C:\Users\dsb\source\repos\AvaliacaoFinal_LPOO\AvaliacaoFinal_LPOO\bin\Debug\netcoreapp3.1\AvaliacaoFinal_LPOO.deps.json
+C:\Users\dsb\source\repos\AvaliacaoFinal_LPOO\AvaliacaoFinal_LPOO\bin\Debug\netcoreapp3.1\AvaliacaoFinal_LPOO.runtimeconfig.json
+C:\Users\dsb\source\repos\AvaliacaoFinal_LPOO\AvaliacaoFinal_LPOO\bin\Debug\netcoreapp3.1\AvaliacaoFinal_LPOO.runtimeconfig.dev.json
+C:\Users\dsb\source\repos\AvaliacaoFinal_LPOO\AvaliacaoFinal_LPOO\bin\Debug\netcoreapp3.1\AvaliacaoFinal_LPOO.dll
+C:\Users\dsb\source\repos\AvaliacaoFinal_LPOO\AvaliacaoFinal_LPOO\bin\Debug\netcoreapp3.1\AvaliacaoFinal_LPOO.pdb
+C:\Users\dsb\source\repos\AvaliacaoFinal_LPOO\AvaliacaoFinal_LPOO\obj\Debug\netcoreapp3.1\AvaliacaoFinal_LPOO.csproj.AssemblyReference.cache
+C:\Users\dsb\source\repos\AvaliacaoFinal_LPOO\AvaliacaoFinal_LPOO\obj\Debug\netcoreapp3.1\AvaliacaoFinal_LPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsb\source\repos\AvaliacaoFinal_LPOO\AvaliacaoFinal_LPOO\obj\Debug\netcoreapp3.1\AvaliacaoFinal_LPOO.AssemblyInfoInputs.cache
+C:\Users\dsb\source\repos\AvaliacaoFinal_LPOO\AvaliacaoFinal_LPOO\obj\Debug\netcoreapp3.1\AvaliacaoFinal_LPOO.AssemblyInfo.cs
+C:\Users\dsb\source\repos\AvaliacaoFinal_LPOO\AvaliacaoFinal_LPOO\obj\Debug\netcoreapp3.1\AvaliacaoFinal_LPOO.csproj.CoreCompileInputs.cache
+C:\Users\dsb\source\repos\AvaliacaoFinal_LPOO\AvaliacaoFinal_LPOO\obj\Debug\netcoreapp3.1\AvaliacaoFinal_LPOO.dll
+C:\Users\dsb\source\repos\AvaliacaoFinal_LPOO\AvaliacaoFinal_LPOO\obj\Debug\netcoreapp3.1\AvaliacaoFinal_LPOO.pdb
+C:\Users\dsb\source\repos\AvaliacaoFinal_LPOO\AvaliacaoFinal_LPOO\obj\Debug\netcoreapp3.1\AvaliacaoFinal_LPOO.genruntimeconfig.cache
+C:\Users\dsb\OneDrive\Documentos\Trilha Especialista\AvaliacaoFinal_LPOO\AvaliacaoFinal_LPOO\bin\Debug\netcoreapp3.1\AvaliacaoFinal_LPOO.exe
+C:\Users\dsb\OneDrive\Documentos\Trilha Especialista\AvaliacaoFinal_LPOO\AvaliacaoFinal_LPOO\bin\Debug\netcoreapp3.1\AvaliacaoFinal_LPOO.deps.json
+C:\Users\dsb\OneDrive\Documentos\Trilha Especialista\AvaliacaoFinal_LPOO\AvaliacaoFinal_LPOO\bin\Debug\netcoreapp3.1\AvaliacaoFinal_LPOO.runtimeconfig.json
+C:\Users\dsb\OneDrive\Documentos\Trilha Especialista\AvaliacaoFinal_LPOO\AvaliacaoFinal_LPOO\bin\Debug\netcoreapp3.1\AvaliacaoFinal_LPOO.runtimeconfig.dev.json
+C:\Users\dsb\OneDrive\Documentos\Trilha Especialista\AvaliacaoFinal_LPOO\AvaliacaoFinal_LPOO\bin\Debug\netcoreapp3.1\AvaliacaoFinal_LPOO.dll
+C:\Users\dsb\OneDrive\Documentos\Trilha Especialista\AvaliacaoFinal_LPOO\AvaliacaoFinal_LPOO\bin\Debug\netcoreapp3.1\AvaliacaoFinal_LPOO.pdb
+C:\Users\dsb\OneDrive\Documentos\Trilha Especialista\AvaliacaoFinal_LPOO\AvaliacaoFinal_LPOO\obj\Debug\netcoreapp3.1\AvaliacaoFinal_LPOO.csproj.AssemblyReference.cache
+C:\Users\dsb\OneDrive\Documentos\Trilha Especialista\AvaliacaoFinal_LPOO\AvaliacaoFinal_LPOO\obj\Debug\netcoreapp3.1\AvaliacaoFinal_LPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsb\OneDrive\Documentos\Trilha Especialista\AvaliacaoFinal_LPOO\AvaliacaoFinal_LPOO\obj\Debug\netcoreapp3.1\AvaliacaoFinal_LPOO.AssemblyInfoInputs.cache
+C:\Users\dsb\OneDrive\Documentos\Trilha Especialista\AvaliacaoFinal_LPOO\AvaliacaoFinal_LPOO\obj\Debug\netcoreapp3.1\AvaliacaoFinal_LPOO.AssemblyInfo.cs
+C:\Users\dsb\OneDrive\Documentos\Trilha Especialista\AvaliacaoFinal_LPOO\AvaliacaoFinal_LPOO\obj\Debug\netcoreapp3.1\AvaliacaoFinal_LPOO.csproj.CoreCompileInputs.cache
+C:\Users\dsb\OneDrive\Documentos\Trilha Especialista\AvaliacaoFinal_LPOO\AvaliacaoFinal_LPOO\obj\Debug\netcoreapp3.1\AvaliacaoFinal_LPOO.dll
+C:\Users\dsb\OneDrive\Documentos\Trilha Especialista\AvaliacaoFinal_LPOO\AvaliacaoFinal_LPOO\obj\Debug\netcoreapp3.1\AvaliacaoFinal_LPOO.pdb
+C:\Users\dsb\OneDrive\Documentos\Trilha Especialista\AvaliacaoFinal_LPOO\AvaliacaoFinal_LPOO\obj\Debug\netcoreapp3.1\AvaliacaoFinal_LPOO.genruntimeconfig.cache

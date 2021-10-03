@@ -1,0 +1,14 @@
+C:\Users\dsb\OneDrive\Documentos\Trilha Especialista\AvDiagnostica Contas\AvDiagnostica Contas\obj\Debug\netcoreapp3.1\AvDiagnostica Contas.csproj.AssemblyReference.cache
+C:\Users\dsb\OneDrive\Documentos\Trilha Especialista\AvDiagnostica Contas\AvDiagnostica Contas\obj\Debug\netcoreapp3.1\AvDiagnostica Contas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dsb\OneDrive\Documentos\Trilha Especialista\AvDiagnostica Contas\AvDiagnostica Contas\obj\Debug\netcoreapp3.1\AvDiagnostica Contas.AssemblyInfoInputs.cache
+C:\Users\dsb\OneDrive\Documentos\Trilha Especialista\AvDiagnostica Contas\AvDiagnostica Contas\obj\Debug\netcoreapp3.1\AvDiagnostica Contas.AssemblyInfo.cs
+C:\Users\dsb\OneDrive\Documentos\Trilha Especialista\AvDiagnostica Contas\AvDiagnostica Contas\obj\Debug\netcoreapp3.1\AvDiagnostica Contas.csproj.CoreCompileInputs.cache
+C:\Users\dsb\OneDrive\Documentos\Trilha Especialista\AvDiagnostica Contas\AvDiagnostica Contas\bin\Debug\netcoreapp3.1\AvDiagnostica Contas.exe
+C:\Users\dsb\OneDrive\Documentos\Trilha Especialista\AvDiagnostica Contas\AvDiagnostica Contas\bin\Debug\netcoreapp3.1\AvDiagnostica Contas.deps.json
+C:\Users\dsb\OneDrive\Documentos\Trilha Especialista\AvDiagnostica Contas\AvDiagnostica Contas\bin\Debug\netcoreapp3.1\AvDiagnostica Contas.runtimeconfig.json
+C:\Users\dsb\OneDrive\Documentos\Trilha Especialista\AvDiagnostica Contas\AvDiagnostica Contas\bin\Debug\netcoreapp3.1\AvDiagnostica Contas.runtimeconfig.dev.json
+C:\Users\dsb\OneDrive\Documentos\Trilha Especialista\AvDiagnostica Contas\AvDiagnostica Contas\bin\Debug\netcoreapp3.1\AvDiagnostica Contas.dll
+C:\Users\dsb\OneDrive\Documentos\Trilha Especialista\AvDiagnostica Contas\AvDiagnostica Contas\bin\Debug\netcoreapp3.1\AvDiagnostica Contas.pdb
+C:\Users\dsb\OneDrive\Documentos\Trilha Especialista\AvDiagnostica Contas\AvDiagnostica Contas\obj\Debug\netcoreapp3.1\AvDiagnostica Contas.dll
+C:\Users\dsb\OneDrive\Documentos\Trilha Especialista\AvDiagnostica Contas\AvDiagnostica Contas\obj\Debug\netcoreapp3.1\AvDiagnostica Contas.pdb
+C:\Users\dsb\OneDrive\Documentos\Trilha Especialista\AvDiagnostica Contas\AvDiagnostica Contas\obj\Debug\netcoreapp3.1\AvDiagnostica Contas.genruntimeconfig.cache
